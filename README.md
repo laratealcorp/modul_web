@@ -12,3 +12,5 @@ Autor : Ismail samudra
 
 Download : [Website Exampel.zip](https://github.com/laratealcorp/modul_web/files/10972897/Website.Exampel.zip)
 
+#### Kami memiliki banyak modul website yg akan kami share nantinya lewat form ini
+
