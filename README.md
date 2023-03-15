@@ -11,5 +11,5 @@ Download : [Website Exampel.zip](https://github.com/laratealcorp/modul_web/files
 - ID : MD005
 - AUTOR : Ismail Samudra
 - VERSION : 1.0
-- [DOWNLOD]((https://github.com/laratealcorp/master_larateal_v.1.18)
+- ![DOWNLOD]((https://github.com/laratealcorp/master_larateal_v.1.18)
 
